@@ -45,7 +45,7 @@
 #define X_SIZE                          0.1524  // cm
 #define Y_SIZE                          0.1524 // cm
 #define MAX_AREA                        150
-#define WEIGHT_CURRENT                  0.6
+#define WEIGHT_CURRENT                  0.65
 #define WHILE_LOOP_TIME                 60.00
 
 float r = 2.54 / 200;
