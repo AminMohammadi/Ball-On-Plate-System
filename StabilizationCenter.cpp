@@ -18,7 +18,7 @@
 #include <opencv2/video/tracking.hpp>
 #include "dynamixel_sdk.h"
 
-#define ADDR_TORQUE_ENABLE             64
+#define ADDR_TORQUE_ENABLE             641
 #define ADDR_GOAL_CURRENT              102
 #define ADDR_PRESENT_POSITION          132
 #define ADDR_PRESENT_CURRENT           126
